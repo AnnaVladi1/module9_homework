@@ -1,0 +1,16 @@
+.error {
+    display: none;
+    margin-top: 10px;
+}
+.error.active {
+    display: block;
+}
+
+div {
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+    margin-bottom: 40px;
+}
